@@ -1,2 +1,0 @@
-# Django-serv
-# Django-serv
